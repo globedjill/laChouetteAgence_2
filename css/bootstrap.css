@@ -16,22 +16,6 @@ body {
     margin: 0
 }
 
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-menu,
-nav,
-section,
-summary {
-    display: block
-}
-
 audio,
 canvas,
 progress,
@@ -48,10 +32,6 @@ audio:not([controls]) {
 [hidden],
 template {
     display: none
-}
-
-a {
-    background-color: transparent
 }
 
 a:active,
@@ -6155,7 +6135,7 @@ a.thumbnail:hover {
     color: #843534
 }
 
-@-webkit-keyframes progress-bar-stripes {
+@-webkit-frames progress-bar-stripes {
     from {
         background-position: 40px 0
     }
