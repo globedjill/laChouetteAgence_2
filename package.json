@@ -1,0 +1,20 @@
+{
+  "name": "lachouetteagence_2",
+  "version": "1.0.0",
+  "description": "mise en place d'un SEO",
+  "main": "index.js",
+  "scripts": 
+  {
+    "sass":"sass --watch ./css/main.scss:style2.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/globedjill/laChouetteAgence_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/globedjill/laChouetteAgence_2/issues"
+  },
+  "homepage": "https://github.com/globedjill/laChouetteAgence_2#readme"
+}
