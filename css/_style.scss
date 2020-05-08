@@ -2,7 +2,6 @@
 .col-sm-12 p
     {
     font-size: 22px;
-    max-width: 600px;
     }
 
 body 
@@ -133,7 +132,7 @@ a,button
     }
 .d-bloc
     {
-    color: #3e2727;
+    color: #3e2727 !important;
     }
     .d-bloc button:hover 
     {
@@ -149,7 +148,7 @@ a,button
         }
     .d-bloc .a-btn,.d-bloc .navbar a,.d-bloc .navbar-brand,.d-bloc a .icon-sm,.d-bloc a .icon-md,.d-bloc a .icon-lg,.d-bloc a .icon-xl,.d-bloc h1 a,.d-bloc h2 a,.d-bloc h3 a,.d-bloc h4 a,.d-bloc h5 a,.d-bloc h6 a,.d-bloc p a 
     {
-    color: rgba(255, 255, 255, .6);
+    color: #281e11c4;
     }
     .d-bloc .a-btn:hover,.d-bloc .navbar a:hover,.d-bloc .navbar-brand:hover,.d-bloc a:hover .icon-sm,.d-bloc a:hover .icon-md,.d-bloc a:hover .icon-lg,.d-bloc a:hover .icon-xl,.d-bloc h1 a:hover,.d-bloc h2 a:hover,.d-bloc h3 a:hover,.d-bloc h4 a:hover,.d-bloc h5 a:hover,.d-bloc h6 a:hover,.d-bloc p a:hover 
     {
