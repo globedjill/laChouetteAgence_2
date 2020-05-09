@@ -1,4 +1,3 @@
-
 .col-sm-12 p
     {
     font-size: 22px;
@@ -788,6 +787,14 @@ p
     }
 @media (max-width: 767px) 
     {
+    footer
+        {
+        padding:10px;
+        & a
+            {
+            padding:8px ;
+            }
+        }
     .page-container 
         {
         overflow-x: hidden;
@@ -998,8 +1005,8 @@ p
     {
     .bloc
         {
-        padding-left: 0;
-        padding-right: 0;
+        padding-left: 10px;
+        padding-right: 10px;
         }
     }
 
