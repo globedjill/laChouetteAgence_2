@@ -3,25 +3,26 @@
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
 
-@font-face {
+@font-face 
+    {
     font-family: 'FontAwesome';
     src: url('../fonts/fontawesome-webfont.eot?v=4.7.0');
     src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display:swap;
-}
-
-.fa {
+    }
+.fa 
+    {
     display: inline-block;
     font: normal normal normal 14px/1 FontAwesome;
     font-size: inherit;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale
-}
+    -moz-osx-font-smoothing: grayscale;
+    }
 
-.fa-lg {
+/*.fa-lg {
     font-size: 1.33333333em;
     line-height: .75em;
     vertical-align: -15%
@@ -530,7 +531,7 @@
 
 .fa-eject:before {
     content: "\f052"
-}
+}*/
 
 .fa-chevron-left:before {
     content: "\f053"
@@ -539,7 +540,7 @@
 .fa-chevron-right:before {
     content: "\f054"
 }
-
+/*
 .fa-plus-circle:before {
     content: "\f055"
 }
@@ -799,16 +800,15 @@
 .fa-phone-square:before {
     content: "\f098"
 }
-
+*/
 .fa-twitter:before {
     content: "\f099"
 }
-
 .fa-facebook-f:before,
 .fa-facebook:before {
     content: "\f09a"
 }
-
+/*
 .fa-github:before {
     content: "\f09b"
 }
@@ -1575,11 +1575,11 @@
 .fa-stack-overflow:before {
     content: "\f16c"
 }
-
+*/
 .fa-instagram:before {
     content: "\f16d"
 }
-
+/*
 .fa-flickr:before {
     content: "\f16e"
 }
@@ -1635,11 +1635,11 @@
 .fa-linux:before {
     content: "\f17c"
 }
-
+*/
 .fa-dribbble:before {
     content: "\f17d"
 }
-
+/*
 .fa-skype:before {
     content: "\f17e"
 }
@@ -3022,24 +3022,4 @@
 .fa-meetup:before {
     content: "\f2e0"
 }
-
-.sr-only {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    border: 0
-}
-
-.sr-only-focusable:active,
-.sr-only-focusable:focus {
-    position: static;
-    width: auto;
-    height: auto;
-    margin: 0;
-    overflow: visible;
-    clip: auto
-}
+*/
