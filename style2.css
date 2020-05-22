@@ -843,7 +843,7 @@ nav .caret
   }
 .tc-white 
   {
-  color: #F3976C !important;
+  color: #ffffff !important;
   }
 .ltc-white 
   {
@@ -863,8 +863,13 @@ nav .caret
   }
 .white 
   {
-  color: #3e2727 !important;
+  color: #ffffff !important;
   }
+  .bold-link {
+    font-weight: 900;
+    text-decoration: underline!important;
+}
+
 
 /*images background*/
 .bg-dots-bg 
@@ -883,6 +888,10 @@ nav .caret
   {
   background-image: url("img/image-de-presentation.jpg");
   }
+.black-background {
+    background-color: rgba(165, 147, 99, 0.7);
+    padding: 40px 40px 40px 40px;
+}
 
 /*Media*/
 @media (max-width: 1024px) {
