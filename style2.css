@@ -863,6 +863,7 @@ nav .caret
   }
 .white 
   {
+  font-weight: bold;
   color: #ffffff !important;
   }
   .bold-link {
