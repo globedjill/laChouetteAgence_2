@@ -171,7 +171,7 @@ p
   }
   .col-sm-12 p 
     {
-    font-size: 26px;
+    font-size: 22px;
     }
 html 
     {
@@ -863,8 +863,7 @@ nav .caret
   }
 .white 
   {
-  font-weight: bold;
-  color: #ffffff !important;
+  color: #281e11c4 !important;
   }
   .bold-link {
     font-weight: 900;
